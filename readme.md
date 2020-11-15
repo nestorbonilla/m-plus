@@ -1,10 +1,14 @@
 <p align="center">
-  <img align="center" width="50%" src="/documentation/resources/rxc-logo.svg">
+  <img align="center" width="50%" src="/resources/m-plus-logo.svg">
 </p>
 
-> Project for the **GitxChange2: Quadratic Funding Hackathon**
+> Project for the **GitxChange2 Hackathon**
 > by **Nestor Bonilla**
 
-**RadicalxChange** is a global movement dedicated to reimagining the building blocks of democracy and markets in order to uphold fairness, plurality, and meaningful participation in a rapidly changing world.
+## Explainer Video For The M+C Token
 
-* [Challenge no. 1](https://github.com/nestorbonilla/radicalxchange2/tree/master/openfund/readme.md)
+The bounty scope is to create an explainer Video for the M+C token; an alternative currency system backed by positive climate impact that rewards climate positive consumer choices.
+
+## Link
+* [Script](https://docs.google.com/document/d/1n1H8k8NEjIL7NJYVN9ZW1iup7IEBQlDBlLb7jyhLb6M)
+* [Video](https://drive.google.com/file/d/1VL9pwOkdfz5vFyt1GvHArXW_tLwa-m7g)
