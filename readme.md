@@ -9,6 +9,6 @@
 
 The bounty scope is to create an explainer Video for the M+C token; an alternative currency system backed by positive climate impact that rewards climate positive consumer choices.
 
-## Link
+## Links
 * [Script](https://docs.google.com/document/d/1n1H8k8NEjIL7NJYVN9ZW1iup7IEBQlDBlLb7jyhLb6M)
 * [Video](https://drive.google.com/file/d/1VL9pwOkdfz5vFyt1GvHArXW_tLwa-m7g)
